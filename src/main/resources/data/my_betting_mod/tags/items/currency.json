@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "numismatic-overhaul:bronze_coin",
+    "numismatic-overhaul:silver_coin",
+    "numismatic-overhaul:gold_coin"
+  ]
+}
